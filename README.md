@@ -3,7 +3,7 @@
 Este é um projeto de um jogo simples desenvolvido em JavaScript, no qual o objetivo é acertar o número secreto. O jogo utiliza manipulação do DOM, seleção e manipulação de elementos, eventos de clique e manipulação de estilos CSS.
 
 ### 🎥 Demo
-### Click:   https://andreahcodes.github.io/guessMyNumber-JS/
+### Click:   https://andreahcodes.github.io/GuessMyNumberJs/
 
 <img width="1233" alt="Captura de Tela 2023-06-14 às 11 48 04" src="https://github.com/andreahcodes/Projeto-LandingPage/assets/112190511/e1c63ebd-1915-4ae4-936b-19585ff4c7a1">
 

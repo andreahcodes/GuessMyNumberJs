@@ -1,6 +1,6 @@
 ## Guess my Number 
 
-Este é um projeto de um jogo simples desenvolvido em JavaScript, no qual o objetivo é acertar o número secreto. O jogo utiliza manipulação do DOM, seleção e manipulação de elementos, eventos de clique e manipulação de estilos CSS.
+Este é um projeto de um jogo simples desenvolvido em JavaScript, no qual o objetivo é acertar o número secreto. O jogo utiliza manipulação do DOM, seleção e manipulação de elementos, eventos de clique e manipulação de estilos CSS. PROJETO DESENVOLVIDO atraves do curso JS .
 
 ### 🎥 Demo
 ### Click:   https://andreahcodes.github.io/GuessMyNumberJs/
